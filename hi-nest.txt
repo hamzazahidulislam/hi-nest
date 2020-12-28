@@ -1,0 +1,16 @@
+how to work nest js {
+	1 main.ts      ---> main.py
+	2 module.ts    ---> app
+	3 controller.ts  ---> view.py
+	4 service.ts   ---> monogoose / database
+}
+
+command 
+nest g co
+nest g s
+nest g mo
+
+
+npm i class-validator class-transformer
+npm i @nestjs/mapped-types
+
